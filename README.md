@@ -17,3 +17,4 @@ Services Offered:
 * WooCommerce plugin extension 
 * React JS App Development
 * React Native App Development
+* NextJS App Development
