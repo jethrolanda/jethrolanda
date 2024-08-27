@@ -9,7 +9,7 @@ I am currently looking for Full-Time position job. I'm interested in wordpress t
 Over 10 years experience in the following: wordpress, woocommerce, theme and plugin development. 
 
 Services Offered: 
-* Wordpress theme development via PSD designs 
+* Wordpress theme development via Figma designs 
 * Wordpress plugin development 
 * Plugin customizations 
 * Theme customizations 
