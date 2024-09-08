@@ -5,10 +5,11 @@ In here you will see my practice projects related to react js, react native, nex
 Over 10 years experience in the following: wordpress, woocommerce, theme and plugin development. 
 
 Services Offered: 
-* Wordpress theme development via Figma designs 
-* Wordpress plugin development 
-* Plugin customizations 
-* Theme customizations 
+* WP theme development via Figma designs 
+* WP plugin development 
+* WP plugin customizations 
+* WP theme customizations
+* WP custom blocks 
 * Customizing plugin behaviour via hooks/filters 
 * WooCommerce plugin extension 
 * WP + React JS Headless App Development
