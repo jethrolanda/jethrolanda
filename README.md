@@ -9,7 +9,7 @@ Services Offered:
 * WP plugin development 
 * WP plugin customizations 
 * WP theme customizations
-* WP custom blocks 
+* WP custom blocks via Interactivity API
 * Customizing plugin behaviour via hooks/filters 
 * WooCommerce plugin extension 
 * WP + React JS Headless App Development
