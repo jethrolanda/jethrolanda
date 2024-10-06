@@ -14,5 +14,5 @@ Services Offered:
 * Customizing plugin behaviour via hooks/filters 
 * WooCommerce plugin extension 
 * WP + React JS Headless App Development
-* React Native App Development
+* React Native App Development (TS, Expo)
 * NextJS App Development
