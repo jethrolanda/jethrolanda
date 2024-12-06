@@ -9,10 +9,8 @@ Services Offered:
 * WP plugin development 
 * WP plugin customizations 
 * WP theme customizations
-* WP custom blocks via Interactivity API
-* Customizing plugin behaviour via hooks/filters 
-* WooCommerce plugin extension 
-* WP API Integrations
+* WP custom blocks via WP Interactivity API
+* WooCommerce custom plugin extension 
 * WP API + React JS Headless App Development
 * React Native App Development (TS, Expo)
-* NextJS App Development
+* NextJS App Development (Nextjs, Tailwindcss, Postgres, Typescript)
