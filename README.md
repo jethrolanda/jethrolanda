@@ -3,7 +3,7 @@
 About ME:
 * BSIT Graduate batch 2012
 * Started developing WP site since 2012
-* Specialize in WP theme and plugin development from PSD design
+* Specialize in WP theme and plugin development from Figma design
 * Problem solver
 * Hobby includes swim, bike and run
 * Improving career growth one day at a time
