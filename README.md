@@ -1,10 +1,14 @@
 ## Hi there, welcome to my github profile 👋
 
-In here you will see my practice projects related to react js, react native, next js, wordpress theme and plugin developement.
+About ME:
+* BSIT Graduate batch 2012
+* Started developing WP site since 2012
+* Specialize in WP theme and plugin development from PSD design
+* Problem solver
+* Hobby includes swim, bike and run
+* Improving career growth one day at a time
 
-Over 10 years experience in the following: wordpress, woocommerce, wp theme and plugin development. 
-
-Services Offered: 
+Specialization: 
 * WP theme development via Figma designs 
 * WP plugin development 
 * WP plugin customizations 
