@@ -1,7 +1,7 @@
 ## Hi there, welcome to my github profile 👋
 
 About ME:
-* BSIT Graduate batch 2012
+* BSIT Graduate
 * Started developing WP site since 2012
 * Specialize in WP theme and plugin development from Figma design
 * Problem solver
