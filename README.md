@@ -17,3 +17,4 @@ Specialization:
 * WP API + React JS Headless App Development 
 * React Native App Development (TS, Expo) 
 * NextJS App Development (Nextjs, Tailwindcss, Postgres, Typescript)
+* OpenAI API
