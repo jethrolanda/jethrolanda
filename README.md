@@ -13,8 +13,6 @@ Specialization:
 * WP backend development
 * WP theme development via Figma designs 
 * WP plugin and theme development 
-* WP plugin extension via hooks
-* WP theme extension via hooks
 * WP custom blocks via WP Interactivity API - WooCommerce custom plugin extension 
 * WP API + React JS Headless App Development 
 * React Native App Development (TS, Expo) 
