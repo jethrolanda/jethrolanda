@@ -3,7 +3,8 @@
 About ME: 
 * BSIT Graduate 
 * Started developing WP site since 2012 
-* Problem solver 
+* Problem solver
+* Viber Coder
 * Hobby includes swim, bike and run 
 * Improving career growth one day at a time
 
