@@ -18,3 +18,4 @@ Specialization:
 * React Native App Development (TS, Expo) 
 * NextJS App Development (Nextjs, Tailwindcss, Postgres, Typescript)
 * OpenAI API
+* Laravel
