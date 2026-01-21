@@ -8,7 +8,7 @@ About ME:
 * Hobby includes swim, bike and run 
 * Improving career growth one day at a time
 
-Specialization: 
+Skills: 
 * WP Full Stack
 * WP backend development
 * WP theme development via Figma designs 
@@ -19,3 +19,6 @@ Specialization:
 * NextJS App Development (Nextjs, Tailwindcss, Postgres, Typescript)
 * OpenAI API
 * Laravel
+
+Specialization:
+* Custom Wordpress Plugin Development
