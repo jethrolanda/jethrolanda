@@ -21,4 +21,7 @@ Skills:
 * Laravel
 
 Specialization:
-* Custom Wordpress Plugin Development
+* Custom Wordpress Plugin & Theme Development
+* WP Block development
+* API integrations
+* React JS
