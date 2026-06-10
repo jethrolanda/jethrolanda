@@ -1,40 +1,33 @@
 ## Hi there, welcome to my github profile 👋
 
-**ABOUT ME:**
-* BSIT Graduate 
-* Started developing WP site since 2013
-* Problem solver
-* Viber Coder
-* Hobby includes swim, bike and run 
-* Improving career growth one day at a time
+I am a BSIT graduate and a WordPress Developer with over 10 years of experience building custom WordPress solutions, including themes, plugins, and WooCommerce extensions. I specialize in backend-heavy WordPress development, API integrations, and performance optimization.
 
-**SKILLS:**
-* WP Full Stack
-* WP custom theme development via PSD/Figma designs
-* WP custom plugin development
-* WP custom blocks using WP Interactivity API framework
-* WooCommerce custom plugin extension
-* REST API Integrations
-* CSS, SASS
-* JS (es6), React, jQuery, AJAX
-* PHP, Composer
-* MySQL
-* Git, Github Actions
-* Core Web Vitals Optimizations
-* WP API + React JS Headless App Development
-* React Native App Development (TS, Expo)
-* NextJS App Development (Nextjs, Tailwindcss, Postgres, Typescript)
-* Laravel
-* SDLC, Agile, SCRUM
-* Can adapt on any page builders
-* AI dev tools: OpenAI Codex, Cursor, GitHub Copilot, ChatGPT, Claude 
-* AI design tools: google stitch, magic patterns
+I also work with modern JavaScript frameworks and full-stack technologies to support scalable web applications.
 
-**SPECIALIZATION:**
-* Custom Wordpress Plugin & Theme Development
-* WP Block Theme, Elementor, able to adapt to any page builders
-* Can create design using AI tools like google stitch or magic patterns and convert to WP
-* Debugging and fixing issues
-* WP Block development
-* API integrations
-* React JS
+**WordPress Development**
+
+- Custom Theme Development (Figma / PSD to WordPress)
+- Custom Plugin Development
+- WooCommerce Customization & Extensions
+- Gutenberg / Block Development (WP Interactivity API)
+- REST API Integration
+- Core Web Vitals & Performance Optimization
+
+**Frontend & Backend**
+
+- PHP, MySQL, Composer
+- JavaScript (ES6), jQuery, AJAX
+- React, Next.js
+- CSS, SASS, Tailwind CSS
+
+**Full Stack Exposure**
+
+- Laravel
+- Headless WordPress (React-based apps)
+- React Native (Expo, TypeScript)
+
+**Workflow & Tools**
+
+- Git, GitHub Actions
+- Agile / Scrum
+- AI Development Tools (ChatGPT, Copilot, Cursor, Claude, Codex)
