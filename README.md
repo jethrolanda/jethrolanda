@@ -1,8 +1,8 @@
 ## Hi there, welcome to my github profile 👋
 
-I am a BSIT graduate and a WordPress Developer with over 10 years of experience building custom WordPress solutions, including themes, plugins, and WooCommerce extensions. I specialize in backend-heavy WordPress development, API integrations, and performance optimization.
+I am a BSIT graduate and a WordPress Developer with over 10 years of experience building custom WordPress solutions, including themes, plugins, and WooCommerce extensions. I specialize in backend-focused WordPress development, API integrations, and performance optimization.
 
-I also work with modern JavaScript frameworks and full-stack technologies to support scalable web applications.
+I also work with modern JavaScript frameworks and full-stack technologies to build scalable and maintainable web applications.
 
 **WordPress Development**
 
@@ -20,10 +20,10 @@ I also work with modern JavaScript frameworks and full-stack technologies to sup
 - React, Next.js
 - CSS, SASS, Tailwind CSS
 
-**Full Stack Exposure**
+**Full Stack Development**
 
 - Laravel
-- Headless WordPress (React-based apps)
+- Headless WordPress (React-based applications)
 - React Native (Expo, TypeScript)
 
 **Workflow & Tools**
@@ -34,8 +34,8 @@ I also work with modern JavaScript frameworks and full-stack technologies to sup
 
 **Focus Areas**
 - Custom WordPress Plugin & Theme Development
-- API Integrations & Backend Systems
+- API Integrations & Backend Architecture
 - WooCommerce Custom Solutions
-- Performance Optimization
+- Performance Optimization (Core Web Vitals)
 - Debugging Complex WordPress Issues
 - Headless WordPress Architecture
