@@ -2,7 +2,7 @@
 
 **ABOUT ME:**
 * BSIT Graduate 
-* Started developing WP site since 2012 
+* Started developing WP site since 2013
 * Problem solver
 * Viber Coder
 * Hobby includes swim, bike and run 
