@@ -31,3 +31,11 @@ I also work with modern JavaScript frameworks and full-stack technologies to sup
 - Git, GitHub Actions
 - Agile / Scrum
 - AI Development Tools (ChatGPT, Copilot, Cursor, Claude, Codex)
+
+**Focus Areas**
+- Custom WordPress Plugin & Theme Development
+- API Integrations & Backend Systems
+- WooCommerce Custom Solutions
+- Performance Optimization
+- Debugging Complex WordPress Issues
+- Headless WordPress Architecture
