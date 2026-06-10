@@ -1,6 +1,6 @@
 ## Hi there, welcome to my github profile 👋
 
-**About ME: **
+**ABOUT ME:**
 * BSIT Graduate 
 * Started developing WP site since 2012 
 * Problem solver
@@ -8,7 +8,7 @@
 * Hobby includes swim, bike and run 
 * Improving career growth one day at a time
 
-**Skills: **
+**SKILLS:**
 * WP Full Stack
 * WP custom theme development via PSD/Figma designs
 * WP custom plugin development
@@ -30,7 +30,7 @@
 * AI dev tools: OpenAI Codex, Cursor, GitHub Copilot, ChatGPT, Claude 
 * AI design tools: google stitch, magic patterns
 
-**Specialization:**
+**SPECIALIZATION:**
 * Custom Wordpress Plugin & Theme Development
 * WP Block Theme, Elementor, able to adapt to any page builders
 * Can create design using AI tools like google stitch or magic patterns and convert to WP
