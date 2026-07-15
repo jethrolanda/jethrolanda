@@ -18,6 +18,6 @@ Skills:
 
 🛠️ Workflows — Git, GitHub Actions, Agile/Scrum, 
 
-🤖 AI Dev Tools — (Cursor, Copilot, Claude Code, Codex, MCP)
+🤖 AI Dev Tools — Cursor, Copilot, Claude Code, Codex, MCP
 
 🎨 AI Design Tools — Google Stitch, Magic Patterns, Novamira MCP (convert designs to wp)
