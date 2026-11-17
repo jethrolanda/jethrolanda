@@ -10,7 +10,7 @@ Skills:
 
 🔧 WordPress — Custom themes & plugins, WooCommerce, Gutenberg, Elementor, REST API, Core Web Vitals
 
-🖥️ Frontend — JavaScript (ES6), React, Next.js, Tailwind CSS, SASS
+🖥️ Frontend — JavaScript (ES6), React, Next.js, Tailwind CSS, SASS, Astro
 
 ⚙️ Backend — PHP, MySQL, Laravel, Composer
 
@@ -20,4 +20,4 @@ Skills:
 
 🤖 AI Dev Tools — Cursor, Copilot, Claude Code, Codex, MCP
 
-🎨 AI Design Tools — Google Stitch, Magic Patterns, Novamira MCP (convert designs to wp)
+🎨 AI Design Tools — Google Stitch, Magic Patterns
